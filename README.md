@@ -27,14 +27,14 @@ Este bot foi desenvolvido em TYPESCRIPT utilizando a API do Telegram. Ele respon
 
 3. **Executar o Bot**:
    - Para executar o bot em modo de desenvolvimento (usando nodemon):
-     ```bash
-     npm run dev
-     ```
+   ```bash
+   npm run dev
+   ```
    
    - Para executar a versão compilada:
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
    - O bot estará pronto para interagir com você no Telegram!
 

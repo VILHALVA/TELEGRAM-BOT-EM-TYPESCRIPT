@@ -13,7 +13,7 @@ Este bot foi desenvolvido em TYPESCRIPT utilizando a API do Telegram. Ele respon
 
 ## EXECUTANDO O PROJETO:
 1. **Configurar Token do Telegram**:
-   - Abra o arquivo `./CODIGO/src/.env` e coloque sua credêncial:
+   - Abra o arquivo `./CODIGO/.env` e coloque sua credêncial:
      ```
       BOT_TOKEN=YOUR_BOT_TOKEN
      ```

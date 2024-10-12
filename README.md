@@ -53,6 +53,7 @@ Este bot foi desenvolvido em TYPESCRIPT utilizando a API do Telegram. Ele respon
 * [VEJA A DOCUMENTAÇÃO](https://core.telegram.org/bots/api)
 * [CURSO SUGERIDO](https://github.com/VILHALVA/CURSO-DE-TELEGRAF)
 * [CURSO DE TYPESCRIPT](https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT)
+* [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
